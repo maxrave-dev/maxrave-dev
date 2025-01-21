@@ -1,6 +1,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=113747128)
 ### Hi there! 👋  
-I’m **Nguyen Duc Tuan Minh**, a passionate **Mobile Developer** specializing in **Android** and **iOS** development. I'm currently a **final-year student** at **UEH University**, constantly learning and growing in the tech world.  
+I’m **Nguyen Duc Tuan Minh**, a passionate **Mobile Developer** specializing in **Android** and **iOS** development.  
 
 ---
 
