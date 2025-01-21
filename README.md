@@ -6,7 +6,7 @@ I’m **Nguyen Duc Tuan Minh**, a passionate **Mobile Developer** specializing i
 
 🌟 **Highlights**:  
 - **Creator of [SimpMusic](https://github.com/maxrave-dev/SimpMusic)**:  
-  - Over **1.9K stars** and **300K downloads** on GitHub! 🚀  
+  - About **2.2K stars** and **500K downloads** on GitHub! 🚀  
   - Built with care and love for music enthusiasts.  
 
 - Experienced in **Swift** (iOS) and **Kotlin** (Android), with hands-on expertise in building real-world, scalable apps.  
